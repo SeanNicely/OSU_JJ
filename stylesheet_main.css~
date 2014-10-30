@@ -43,3 +43,8 @@ div.main {
 	color: #c00;
 	background-color: #fff; 
 }
+
+img {
+	display: block;
+	width: 50%;
+}
