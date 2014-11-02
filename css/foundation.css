@@ -2366,6 +2366,7 @@ meta.foundation-mq-topbar {
     display: inline-block; }
     .button-group > li > button, .button-group > li .button {
       border-left: 1px solid;
+      border-radius: 50px;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group > li:first-child button, .button-group > li:first-child .button {
       border-left: 0; }
