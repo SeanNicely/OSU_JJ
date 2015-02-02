@@ -4,5 +4,9 @@
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
+  Components: jQuery, Reveal, Slick Carousel
   Software: Sublime, Git, Sass
+
+/* Contributors */
+	Authro: Sean Nicely
+	Design Consultant: Jessica Ketz
